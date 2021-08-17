@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
+    background-color: #F0FFFF;
 }
 nav ul, footer ul {
     font-family:'Courier New', 'Courier', 'Monospace';
@@ -14,7 +15,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #F0FFFF;
+    color: #5F9EA0;
 }
 a:hover {
     text-decoration: underline;
